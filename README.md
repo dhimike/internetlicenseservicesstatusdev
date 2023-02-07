@@ -1,2 +1,1 @@
-# internetlicenseservicesstatusdev
-DHI Internet License Services - DEV
+Visit this site at https://github.com/dhimike/internetlicenseservicesstatusdev/issues/
